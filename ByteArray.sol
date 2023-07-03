@@ -47,3 +47,18 @@ contract ByteArrayExample {
 // The individual elements of the myBytes byte array are assigned hexadecimal values using the index notation. For example, myBytes[0] = 0x41 assigns the value 'A' to the first element, myBytes[1] = 0x42 assigns 'B' to the second element, and so on.
 
 // Finally, the myBytes byte array is returned from the function.
+
+
+
+// For String
+
+pragma solidity ^0.8.0;
+
+contract ByteArrayExample {
+    function manipulateString() external pure returns (string memory) {
+        string memory myString = "Hello, world!";
+
+        return myString;
+    }
+}
+
