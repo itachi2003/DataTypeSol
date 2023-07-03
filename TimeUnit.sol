@@ -1,5 +1,5 @@
 // Time Unit
-//The units sexonds, minutes, hours, and days can be used as suddixes, converting to multiples of the base unit seconds.
+//The units seconds, minutes, hours, and days can be used as suffixes, converting to multiples of the base unit seconds.
 
 
 pragma solidity ^0.8.0;
