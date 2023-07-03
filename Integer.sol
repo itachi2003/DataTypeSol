@@ -10,3 +10,13 @@ int32: Represents a signed integer with a size of 32 bits (-2,147,483,648 to 2,1
 int64: Represents a signed integer with a size of 64 bits (-9,223,372,036,854,775,808 to 9,223,372,036,854,775,807).
 int128: Represents a signed integer with a size of 128 bits.
 int256: Represents a signed integer with a size of 256 bits.
+
+
+Unsigned Integers (uint):
+
+uint8: Represents an unsigned integer with a size of 8 bits (0 to 255).
+uint16: Represents an unsigned integer with a size of 16 bits (0 to 65,535).
+uint32: Represents an unsigned integer with a size of 32 bits (0 to 4,294,967,295).
+uint64: Represents an unsigned integer with a size of 64 bits (0 to 18,446,744,073,709,551,615).
+uint128: Represents an unsigned integer with a size of 128 bits.
+uint256: Represents an unsigned integer with a size of 256 bits.
